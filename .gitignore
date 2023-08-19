@@ -1,0 +1,32 @@
+# ビルドディレクトリ
+__pycache__/
+build/
+dist/
+*.egg-info
+
+# 設定ファイルや秘密鍵
+*.pem
+*.ini
+.git/
+
+# バージョン管理から除外すべき開発ツール関連のファイル
+.Python
+db.sqlite3
+*.pot
+*.swp
+*.swo
+.SASS-cache
+.env
+
+# 特定のエディタやOSに固有のファイル
+.DS_Store
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 仮想環境（virtualenv）ファイル
+.venv/
+
+# テストやログファイル
+test/
+*.log

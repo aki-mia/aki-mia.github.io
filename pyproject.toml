@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "aki-mia-github-io"
+version = "0.1.0"
+description = "This is my blog site at github pages."
+authors = ["aki-mia"]
+readme = "README.md"
+packages = [{include = "aki_mia"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pelican = "^4.8.0"
+markdown = "^3.4.4"
+mdx-linkify = "^2.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
