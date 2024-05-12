@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "aki-mia-github-io"
+version = "0.1.0"
+description = ""
+authors = ["aki-mia <13302223+aki-mia@users.noreply.github.com>"]
+readme = "README.md"
+packages = [{include = "aki_mia"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[tool.poetry.group.dev.dependencies]
+pelican = "^4.9.1"
+markdown = "^3.6"
+ghp-import = "^2.1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
