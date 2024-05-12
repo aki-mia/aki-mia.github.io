@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>個人開発とかのブログ</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2023-01-18T00:00:00+09:00</updated><entry><title>Privacy policy for Chrome extensions developed by aki-mia</title><link href="/privacy-policy-for-chrome-extensions-developed-by-aki-mia.html" rel="alternate"></link><published>2023-01-18T00:00:00+09:00</published><updated>2023-01-18T00:00:00+09:00</updated><author><name>aki-mia</name></author><id>tag:None,2023-01-18:/privacy-policy-for-chrome-extensions-developed-by-aki-mia.html</id><summary type="html">&lt;h2&gt;個人開発したChrome拡張機能のプライバシーポリシー&lt;/h2&gt;
+&lt;p&gt;本プライバシーポリシーは、aki-mia（以下、「当開発者」）が開発したGoogleChromeの拡張機能(Extension)(以下、「拡張機能」とします。)の利用において …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;個人開発したChrome拡張機能のプライバシーポリシー&lt;/h2&gt;
+&lt;p&gt;本プライバシーポリシーは、aki-mia（以下、「当開発者」）が開発したGoogleChromeの拡張機能(Extension)(以下、「拡張機能」とします。)の利用において、利用者の個人情報もしくはそれに準ずる情報を取り扱う際に、当開発者が遵守する方針を示したものです。&lt;/p&gt;
+&lt;h3&gt;基本方針&lt;/h3&gt;
+&lt;p&gt;当開発者は、個人情報の重要性を認識し、個人情報を保護することが社会的責務であると考え、個人情報に関する法令を遵守し、拡張機能で取扱う個人情報の取得、利用、管理を適正に行います。&lt;/p&gt;
+&lt;h3&gt;適用範囲&lt;/h3&gt;
+&lt;p&gt;本プライバシーポリシーは、当開発者が開発した拡張機能においてのみ適用されます。&lt;/p&gt;
+&lt;h3&gt;個人情報の取得と利用目的&lt;/h3&gt;
+&lt;p&gt;当開発者は、個人情報を収集する機能を要した拡張機能を公開しません。
+&lt;strong&gt;ただし、一部個人情報を機能提供を目的に利用者のブラウザの標準機能（LocalStorage、Chrome Storage、indexedDBなど）を利用し保存します。
+機能が提供するURLリンク等に遷移した結果、遷移先で収集されるアクセスログ等は遷移先サイトのポリシーに準拠し、その責任を当開発者は負いません。&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;取得方法&lt;/h4&gt;
+&lt;p&gt;拡張機能内に、機能のON/OFFを制御するボタンを表示します。
+設定状況は、ブラウザ内のStorageに保存されますが当開発者により個人を一意に特定することはできず当開発者に送信もされません。&lt;/p&gt;
+&lt;h4&gt;利便性の向上&lt;/h4&gt;
+&lt;p&gt;拡張機能では、機能の内容により、下記の情報を「ブラウザのLocalStorage」へ保存します
+- 拡張機能の動作を制御する。&lt;/p&gt;
+&lt;h4&gt;保存期間について&lt;/h4&gt;
+&lt;p&gt;拡張機能内でデータの扱いとして、利用者のブラウザの標準機能（LocalStorage、Chrome Storage、indexedDBなど）を使用します。
+各ストレージには保存期間が存在しないため、データ保存期間は拡張機能のアンインストール時までとします。&lt;/p&gt;
+&lt;h4&gt;個人情報の取り扱いの同意について&lt;/h4&gt;
+&lt;p&gt;当開発者が開発を行った拡張機能では、拡張機能のインストールを行う前に、当プライバシーポリシーをご一読頂くようにお願いします。
+インストールをされた時点で、当プライバシーポリシーに同意されたとみなします。&lt;/p&gt;
+&lt;h4&gt;Cookieによる個人情報の取得&lt;/h4&gt;
+&lt;p&gt;拡張機能では、Cookieを利用することがあります。
+Cookie（クッキー）とは、ウェブサイトを利用したときに、ブラウザとサーバーとの間で送受信した利用履歴や入力内容などを、訪問者のコンピュータにファイルとして保存しておく仕組みです。&lt;/p&gt;
+&lt;h4&gt;利用目的について&lt;/h4&gt;
+&lt;p&gt;拡張機能の利用者の利便性を向上するために活用します。
+ログイン処理や画面遷移を拡張機能から行う際に、Cookieを活用することでユーザーの手間を省いてデータの処理が可能となります。
+なお、拡張機能ではプライバシー保護のため、拡張機能の目的とする情報以外のCookieを送信しません。&lt;/p&gt;
+&lt;h4&gt;保存期間について&lt;/h4&gt;
+&lt;p&gt;Cookieの保存期間は利用者のブラウザーにて設定されているデフォルトの期間保存されます。&lt;/p&gt;
+&lt;h3&gt;個人情報の管理&lt;/h3&gt;
+&lt;p&gt;当開発者は、拡張機能内における個人情報の管理について、以下を徹底します。&lt;/p&gt;
+&lt;h4&gt;情報の正確性の確保&lt;/h4&gt;
+&lt;p&gt;利用者が入力したデータにおいて、常に正しい情報を保持します。&lt;/p&gt;
+&lt;h4&gt;安全管理措置&lt;/h4&gt;
+&lt;p&gt;拡張機能において、情報の漏洩、滅失を防止するために拡張機能内において利用目的外のサーバーへの情報送信を行いません。&lt;/p&gt;
+&lt;h4&gt;個人情報の第三者への提供について&lt;/h4&gt;
+&lt;p&gt;当開発者の開発する拡張機能は、利用者から提供いただいた個人情報を、訪問者本人の同意を得ることなく第三者に提供することはありません。
+また、今後第三者提供を行うことになった場合には、提供する情報と提供目的などを提示し、訪問者から同意を得た場合のみ第三者提供を行います。&lt;/p&gt;
+&lt;h4&gt;問い合わせ先&lt;/h4&gt;
+&lt;p&gt;拡張機能、又は個人情報の取扱いに関しては、下記に問い合わせください。&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://twitter.com/aki_honmono"&gt;https://twitter.com/aki_honmono&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;策定日&lt;/h3&gt;
+&lt;p&gt;2023年1月19日　策定&lt;/p&gt;</content><category term="Frontend"></category><category term="Chrome"></category><category term="Extension"></category></entry></feed>
